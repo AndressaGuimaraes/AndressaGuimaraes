@@ -1,4 +1,6 @@
 ## 👋 Olá, sou @AndressaGuimaraes <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndressaGuimaraes&show_icons=true&theme=onedark )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 👀 Estou interessada em desenvolvimento de sistemas e tecnologia.<br>
 🌱 Atualmente estou cursando Desenvolvimento de Sistemas no SENAI e o ensino médio no SESI, onde aprendi sobre HTML, CSS, JavaScript, Python, PHP, Flutter Flow, Figma, hardware e bancos de dados.<br>
